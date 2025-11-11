@@ -83,7 +83,8 @@ This includes trendline and target line to help HR managers track progress towar
 
     14th sheet: kpi( Average perscoreid,total emplyoee,Average emp Satisfication,turnover rate)
 
-## DASHBOARD:
+## DASHBOARD:<img width="909" height="517" alt="HR ANALYTICS ON TABLUE DASHBAORD" src="https://github.com/user-attachments/assets/6b7d8446-67b8-4222-b25d-660e441353b2" />
+
 
 
 
