@@ -13,9 +13,8 @@ Lets Connect
 
 #### HR Analytics: A Complete Employee Data Analysis Project using Tableau Dashboard
 
-## ABOUT PROJECT:
-
-#Objective:
+## ABOUT PROJECT
+##Objective:
 I create an HR analytics dashboard that provides insights into employee demographics,
 turnover rates, hiring trends, performance metrics, and satisfaction scores to improve HR
 decision-making.This HR analytics Tableau project is aimed at providing HR managers and business leaders a comprehensive way to analyze and monitor employee data, and make data-driven decisions related to employee retention, development, and recruitment.
